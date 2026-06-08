@@ -29,6 +29,14 @@ A Nexus addon for **Guild Wars 2** that helps you organize your squad and party 
 - Assign roles from the window, or right-click a squad member and choose **Set Role**.
 - Roles appear on the in-game squad/party frames automatically.
 
+## Acknowledgments
+
+- **SquadRoles** by xvwyh — inspiration for in-game squad role tracking and assignment.
+- **Nexus** and the **RealTime API (RTAPI)** by Raidcore — the addon framework and prior
+  work this builds alongside (RTAPI is MIT-licensed).
+
+This is an independent project and is not affiliated with or endorsed by the above, or by ArenaNet.
+
 ## Support
 
 Found a bug or have a request? Open an issue on the Issues page.
