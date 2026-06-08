@@ -37,6 +37,10 @@ A Nexus addon for **Guild Wars 2** that helps you organize your squad and party 
 
 This is an independent project and is not affiliated with or endorsed by the above, or by ArenaNet.
 
+## License
+
+MIT — free to use, modify, and distribute. See the LICENSE file.
+
 ## Support
 
 Found a bug or have a request? Open an issue on the Issues page.
