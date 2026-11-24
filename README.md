@@ -11,7 +11,7 @@
 [![Release](https://img.shields.io/badge/Release-v2.6.1.0-e63946.svg)](https://github.com/Todd0042/gw2-Squad-Manager-release/releases)
 [![Game: Guild Wars 2](https://img.shields.io/badge/Game-Guild%20Wars%202-b8860b.svg)]()
 [![Nexus Addon](https://img.shields.io/badge/Nexus-Addon%20(.dll)-1f6feb.svg)](https://raidcore.gg/nexus)
-[![License: MIT](https://img.shields.io/badge/License-MIT-39ff14.svg)](LICENSE)
+[![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/License-PolyForm%20Noncommercial%201.0.0-00f0ff.svg)](LICENSE)
 [![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Creator-F16061?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/todd0042)
 
 > **Organize your Guild Wars 2 squad and party by role in real time — with subgroup roster tracking, primary and secondary role assignments, right-click "Set Role" menus, and live unit-frame overlays inside Nexus.**
@@ -157,14 +157,14 @@ This repository contains the release distribution metadata, documentation, and l
 
 ```text
 gw2-Squad-Manager-release/
-├── LICENSE                      # MIT License (Copyright (c) 2026 Todd0042)
+├── LICENSE                      # PolyForm Noncommercial License 1.0.0 (Copyright (c) 2026 Todd0042)
 └── README.md                    # User guide, installation instructions & release reference
 ```
 
 | Item | Description |
 | :--- | :--- |
 | [README.md](README.md) | User overview, Nexus & manual DLL installation guide, usage workflow, and release reference. |
-| [LICENSE](LICENSE) | Full text of the **MIT License** governing distribution and use. |
+| [LICENSE](LICENSE) | Full text of the **PolyForm Noncommercial License 1.0.0** governing distribution and use. |
 | [GitHub Releases](https://github.com/Todd0042/gw2-Squad-Manager-release/releases) | Hosts compiled `gw2-Squad-Manager.dll` release binaries (tagged `v2.6.0.1`, `v2.6.1.0`). |
 
 ---
@@ -193,7 +193,7 @@ Because `gw2-Squad-Manager-release` is a binary distribution repository (with no
 > *This is an independent project and is not affiliated with or endorsed by the above, or by ArenaNet.*
 
 ### License
-* Licensed under the **[MIT License](LICENSE)** — free to use, modify, and distribute.
+* Licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE) — free for personal, hobby, educational, research and nonprofit use; commercial use (inside a company, in a paid product or service, or for profit) requires a separate license from [Todd0042](https://github.com/Todd0042).
 
 ### Bug Reports & Support
 * Found a bug or have a feature request? Open an issue on the [GitHub Issues](https://github.com/Todd0042/gw2-Squad-Manager-release/issues) page.
